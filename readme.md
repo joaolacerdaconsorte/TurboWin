@@ -21,6 +21,18 @@ CustomTkinter
 
 psutil, os, shutil, ctypes
 
+## Estrutura do Projeto:
+📁 turbowin/
+├── 📁 assets/
+│   └── ... (ícones, imagens, etc.)
+├── 📁 src/
+│   └── ... (arquivos fonte do programa)
+├── 📁 dist/
+│   └──  setup.exe ✅ <-- Instale por aqui!
+├── main.py
+├── requirements.txt
+└── README.md
+
 🚀 Instalação do TurboWin
 Para instalar o TurboWin no seu computador, siga os passos abaixo:
 
