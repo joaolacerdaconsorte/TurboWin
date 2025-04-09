@@ -20,5 +20,17 @@ Python
 CustomTkinter
 
 psutil, os, shutil, ctypes
+
+🚀 Instalação do TurboWin
+Para instalar o TurboWin no seu computador, siga os passos abaixo:
+
+Acesse a pasta de releases do projeto: 👉 dist/
+
+Baixe o instalador: 👉 setup.exe
+
+Execute o arquivo setup.exe e siga as instruções na tela.
+
+⚠️ Caso o Windows exiba um aviso de segurança, clique em "Mais informações" e depois em "Executar mesmo assim". O TurboWin é seguro!
+
 ## Criado por João Vitor Lacerda 
 ## Cursando Análise e desenvolvimento de Sistemas na FIAP.
