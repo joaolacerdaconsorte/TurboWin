@@ -22,13 +22,12 @@ CustomTkinter
 psutil, os, shutil, ctypes
 
 ## Estrutura do Projeto:
+
 📁 turbowin/
-├── 📁 assets/
-│   └── ... (ícones, imagens, etc.)
-├── 📁 src/
-│   └── ... (arquivos fonte do programa)
-├── 📁 dist/
-│   └──  setup.exe ✅ <-- Instale por aqui!
+├── 📁 assets/         # Ícones, imagens, etc.
+├── 📁 src/            # Arquivos fonte do programa
+├── 📁 dist/           
+│   └── ✅ setup.exe   <-- Instale por aqui!
 ├── main.py
 ├── requirements.txt
 └── README.md
