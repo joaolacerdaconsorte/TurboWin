@@ -20,3 +20,5 @@ Python
 CustomTkinter
 
 psutil, os, shutil, ctypes
+## Criado por João Vitor Lacerda 
+## Cursando Análise e desenvolvimento de Sistemas na FIAP.
