@@ -26,7 +26,7 @@ Para instalar o TurboWin no seu computador, siga os passos abaixo:
 
 Acesse a pasta de releases do projeto: 👉 dist/
 
-Baixe o instalador: 👉 setup.exe
+Baixe o instalador: 👉 instalador_TurboWin.exe
 
 Execute o arquivo setup.exe e siga as instruções na tela.
 
